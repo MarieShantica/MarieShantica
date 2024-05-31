@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning programming in Java and Python.
 - 💞️ I’m looking to collaborate on art and coding projects.
 - 📫 How to reach me: 
-      - email marieshantica28@gmail.com
-      - IG @the_maro_senpai 
+      - email mwibisana3@gatech.edu
 
 <!---
 MarieShantica/MarieShantica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
